@@ -1,0 +1,15 @@
+streamlit==1.48.1
+python-dotenv==1.0.1
+torch
+torchvision
+pillow==10.0.0
+wikipedia-api==0.6.0
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+faiss-cpu
+sentence-transformers
+typing-extensions
+gdown==5.2.0
